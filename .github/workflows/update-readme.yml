@@ -2,8 +2,7 @@ name: Update README
 
 on:
   push:
-    branches:
-      - $default-branch
+    branches: [ $default-branch ]
 
 jobs:
   update-readme:
@@ -21,8 +20,8 @@ jobs:
         run: python update_readme.py
       - name: Commit changes
         run: |
-          git config --global user.name "ket"
-          git config --global user.email "youremail@example.com"
+          git config --global user.name "Ket Wong"
+          git config --global user.email "kketbb@gmail.com"
           git add README.md
           git commit -m "Update README"
       - name: Push changes
