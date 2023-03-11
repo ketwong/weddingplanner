@@ -19,7 +19,6 @@ jobs:
         run: |
           pip install tabulate
           pip install pandas
-          pip install -r requirements.txt
       - name: Run Python script
         run: |
           ls
