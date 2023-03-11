@@ -18,7 +18,10 @@ jobs:
       - name: Install dependencies
         run: pip install pandas
       - name: Run Python script
-        run: python update_readme.py
+        run: |
+          ls
+          ls -l
+          python update_readme.py
       - name: Commit changes
         run: |
           git config --global user.name "Ket Wong"
