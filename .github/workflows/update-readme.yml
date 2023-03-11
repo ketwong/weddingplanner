@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: pip install pandas
+      - name: Run Python script
+        run: python update_readme.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "ket"
+          git config --global user.email "youremail@example.com"
+          git add README.md
+          git commit -m "Update README"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
