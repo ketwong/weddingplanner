@@ -1,4 +1,4 @@
-# Louise and Ket 
+# 🎉💍👰🤵 A Celebration of Love: Louise and Ket's Wedding Day 💕💒
 
 Welcome to my collection of ideas and plans for my upcoming wedding, tentatively scheduled for September of next year. This repository is a place for me to gather inspiration, keep track of important details, and share my excitement with others.
 
@@ -85,8 +85,11 @@ Note: The estimated costs provided are based on average prices and may vary depe
 
 ## Choose a potential date range for the wedding and begin researching venues that are available during that time period.
 
-- Potential date: 3rd September 2024 / 27th September 2024
+- Potential date: 
+    - 3rd September 2024 / 27th September 2024
 
+- Radius from from:
+    - 20 miles
 
 ## Narrow down venue options based on location, capacity, and cost.
 
