@@ -2,7 +2,7 @@ name: Update README
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: ${{ github.ref }}
 
 jobs:
   update-readme:
