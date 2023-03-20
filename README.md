@@ -56,7 +56,7 @@ While this repository is primarily for my own personal use, I welcome contributi
 
 <div id='setabudget'/>
 
-## Set a budget and determine who will be contributing financially to the wedding.
+## 1. Set a budget and determine who will be contributing financially to the wedding.
 
 ### Budget
 - £10000
@@ -85,6 +85,16 @@ Note: The estimated costs provided are based on average prices and may vary depe
 
 ## Choose a potential date range for the wedding and begin researching venues that are available during that time period.
 
+Choosing a wedding date can significantly impact venue costs. Peak seasons, weekends, and holidays often result in higher demand and prices, while off-peak seasons and weekdays may offer more affordable options.
+
+Example of peak wedding months:
+
+<img src="https://www.statista.com/graphic/1/933431/most-popular-wedding-months-in-uk.jpg" width="350" height="250">
+
+Example of peak wedding months:
+
+<img src="https://www.statista.com/graphic/1/934285/most-popular-wedding-days-of-week-united-kingdom.jpg" width="350" height="250">
+
 - Potential date: 
     - 3rd September 2024 / 27th September 2024
 
@@ -93,9 +103,30 @@ Note: The estimated costs provided are based on average prices and may vary depe
 
 ## Narrow down venue options based on location, capacity, and cost.
 
-## Once a venue has been chosen, book it and begin planning the rest of the wedding around that date.
+- Choosing a wedding date can significantly impact venue costs. Peak seasons, weekends, and holidays often result in higher demand and prices, while off-peak seasons and weekdays may offer more affordable options.
+
+- Once a venue has been chosen, book it and begin planning the rest of the wedding around that date.
 
 ## Start creating a guest list and sending out save-the-date cards once the date has been confirmed.
+
+👰🤵 Let's get this party started! Here's how to create your guest list and send out save-the-date cards for our wedding:
+
+1️⃣ First, brainstorm who you want to invite to our special day. This is your chance to celebrate with family, friends, and loved ones! 🥳
+
+2️⃣ Categorize your list into different groups (e.g. family, friends, coworkers) to make it easier to manage. 🤝
+
+3️⃣ Decide how many guests you can realistically invite based on your budget and venue capacity. 🤑
+
+4️⃣ Collect contact info for your guests, including full names, addresses, and email addresses. 📲
+
+5️⃣ Once you confirm the date of our wedding, design and send out save-the-date cards to give everyone plenty of notice. 💌
+
+6️⃣ Send the cards via mail or email, and don't forget to include the date, location, and other important details. 📬
+
+7️⃣ As we continue planning, keep updating the guest list and staying in touch with everyone. Can't wait to celebrate with you all! 🎉
+
+
+Remember, creating a guest list and sending save-the-date cards can be a fun part of the wedding planning process. By adding some playful emojis and keeping things light, you can make the experience even more enjoyable for everyone involved!
 
 ## Choose a wedding theme and color scheme, and begin coordinating decorations, floral arrangements, and other aesthetic details.
 
